@@ -1,3 +1,5 @@
+![자바자바](https://media.vlpt.us/images/ggob_2/post/1255109e-fecb-43f4-a7d3-a30b490ef404/%EC%9E%90%EB%B0%94.png)
+
 ## 자바/안드로이드 교육 中 (2021.06.22~ )
 
 [Day01. Hello Java..!](https://www.notion.so/Day01-Hello-Java-902eb28c1ec74584b31e468c57c0f6e5)
