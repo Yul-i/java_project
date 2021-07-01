@@ -129,7 +129,48 @@ System.out.println(result);
 		}
 ```
 
-### 5. WindowBuilder
+## 5. WindowBuilder
 
 - 버튼 연습
+
+![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4d5ee71e-3573-449c-81b4-18884a67dca1/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4d5ee71e-3573-449c-81b4-18884a67dca1/Untitled.png)
+
+![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3c39ea21-6e40-46b4-9f83-27a99c42ecab/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3c39ea21-6e40-46b4-9f83-27a99c42ecab/Untitled.png)
+
+![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4252f85d-190a-44f5-9e50-1d798ed9af3d/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4252f85d-190a-44f5-9e50-1d798ed9af3d/Untitled.png)
+
+![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/9bb40282-ea60-4d99-9421-3c4e5a9b3609/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/9bb40282-ea60-4d99-9421-3c4e5a9b3609/Untitled.png)
+
+![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/48c0311f-59e0-453c-b64c-537bb74df2c5/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/48c0311f-59e0-453c-b64c-537bb74df2c5/Untitled.png)
+
+![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ec6b823f-17a9-4521-a85b-31fc886c3ecf/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ec6b823f-17a9-4521-a85b-31fc886c3ecf/Untitled.png)
+
+![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f63072cd-aff8-4982-b367-a85461061919/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f63072cd-aff8-4982-b367-a85461061919/Untitled.png)
+
 - 미니 계산기
+
+![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/021cb98f-3a3a-4cd8-a4c8-24fb3a8ba31a/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/021cb98f-3a3a-4cd8-a4c8-24fb3a8ba31a/Untitled.png)
+
+![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/cd679ef6-2a7f-4737-b7e1-7ef578031bd4/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/cd679ef6-2a7f-4737-b7e1-7ef578031bd4/Untitled.png)
+
+![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2830de28-8576-4bb4-9569-73b99683d686/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2830de28-8576-4bb4-9569-73b99683d686/Untitled.png)
+
+![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/449c84c4-0bdc-4804-ae45-2f0a923e05ea/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/449c84c4-0bdc-4804-ae45-2f0a923e05ea/Untitled.png)
+
+![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/87935015-0192-49d8-8a30-2df4fae94f23/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/87935015-0192-49d8-8a30-2df4fae94f23/Untitled.png)
+
+## 6. 오늘의 용어
+
+### 1) 튜링 테스트
+
+1950년 앨런 튜링에 의해 개발된 튜링 테스트는 인간의 것과 동등하거나 구별할 수 없는 지능적인 행동을 보여주는 기계의 능력에 대한 테스트다. 튜링은 인간 평가자가 인간과 같은 반응을 일으키도록 설계된 기계 사이의 자연 언어 대화를 판단할 것을 제안했다.
+
+![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/dcf5c264-d4e7-431d-8a14-e6e10d964765/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/dcf5c264-d4e7-431d-8a14-e6e10d964765/Untitled.png)
+
+> [https://ko.wikipedia.org/wiki/튜링_테스트](https://ko.wikipedia.org/wiki/%ED%8A%9C%EB%A7%81_%ED%85%8C%EC%8A%A4%ED%8A%B8)
+
+### 2) 디버깅
+
+디버깅(영어: debugging) 또는 디버그(영어: debug)는 컴퓨터 프로그램 개발 단계 중에 발생하는 시스템의 논리적인 오류나 비정상적 연산(버그)을 찾아내고 그 원인을 밝히고 수정하는 작업 과정을 뜻한다.
+
+> [https://ko.wikipedia.org/wiki/디버그](https://ko.wikipedia.org/wiki/%EB%94%94%EB%B2%84%EA%B7%B8)
