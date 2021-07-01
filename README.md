@@ -1,4 +1,4 @@
-![자바자바](https://media.vlpt.us/images/ggob_2/post/1255109e-fecb-43f4-a7d3-a30b490ef404/%EC%9E%90%EB%B0%94.png)
+![자바자바](https://media.vlpt.us/images/ggg5483/post/321cb142-3670-46bd-8ed7-f462855289a5/img.jpg)
 
 ## 자바/안드로이드 교육 中 (2021.06.22~ )
 
