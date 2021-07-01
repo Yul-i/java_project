@@ -127,7 +127,44 @@ public static void main(String[] args) {
 
 ## 3. for과 foreach 차이
 
-### 1) 브레인 스토밍의 결과...
+### 1) for each
+
+for each 문의 구조는 다음과 같다.
+
+```java
+for (type var: iterate) {
+    body-of-loop
+}
+```
+
+위 iterate는 루프를 돌릴 객체이고 iterate 객체에서 한개씩 순차적으로 var에 대입되어 for문을 수행하게 된다. iterate부분에 들어가는 타입은 루프를 돌릴수 있는 형태인 배열 및 ArrayList등이 가능하다.
+
+다음은 위 예제를 ArrayList 로 재 구현한 예제이다. for문의 사용법은 String[] 배열을 사용했을 때와 완전히 동일하다.
+
+```java
+ArrayList<String> numbers =new ArrayList<String>();
+numbers.add("one");
+numbers.add("two");
+numbers.add("three");
+
+for(String number: numbers) {
+    System.out.println(number);
+}
+```
+
+단, foreach문은 따로 반복회수를 명시적으로 주는 것이 불가능하고, 1스탭씩 순차적으로 반복될때만 사용가능하다는 제약이 있다.
+
+### 2) 브레인 스토밍의 결과...
+
+```java
+String[] names = { "홍길동", "송길동", "정길동", "박길동", "장길동" };
+		for (int i = 0; i < names.length; i++) {
+			System.out.println(names[i]);
+		}
+		for (String n : names) {
+			System.out.println(n);
+		}
+```
 
 ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6ea918d4-0351-49b9-86b1-e260fd0f2b49/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6ea918d4-0351-49b9-86b1-e260fd0f2b49/Untitled.png)
 
