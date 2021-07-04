@@ -2,6 +2,10 @@
 
 ## 자바/안드로이드 교육 中 (2021.06.22~ )
 
+---
+
+# JAVA
+
 [Day01. Hello Java..!](https://www.notion.so/Day01-Hello-Java-902eb28c1ec74584b31e468c57c0f6e5)
 
 [Day02. 데이터, 간단한 처리(연산자)](https://www.notion.so/Day02-3c677de3f2b34935be40faf63169a249)
@@ -14,14 +18,20 @@
 
 [Day06. 제어문4](https://www.notion.so/Day06-4-c59242cc0bdf44efbef571cf8b6e12ef)
 
-[Day07. 제어문5, Scanner](https://www.notion.so/Day07-5-Scanner-e0662af311ea4b2f8ffc78579af65912)
+[Day08. 배열1](https://www.notion.so/Day08-1-4d1156da850a470399a8ec175b1a6d74)
 
-[Day08. 배열](https://www.notion.so/Day08-4d1156da850a470399a8ec175b1a6d74)
+[Day09. 배열2](https://www.notion.so/Day09-2-e6ff41b047b44ef8a0cdc53fb92b0bb7)
+
+---
+
+# MYSQL
+
+[Day01. Hello MySQL..!](https://www.notion.so/Day01-Hello-MySQL-83bfe2770dff449cae5caa9ba960fa29)
 
 ---
 
 ## 용어 정리
 
-[0624 정리](https://www.notion.so/0624-5668c368c4df4c66a45c2c53e091d06c)
+[1. 0624 정리](https://www.notion.so/0624-5668c368c4df4c66a45c2c53e091d06c)
 
-[0701 정리](https://www.notion.so/0701-4d73dd80ef7c48698fdfe9cf5d57a012)
+[2. 0701 정리](https://www.notion.so/0701-4d73dd80ef7c48698fdfe9cf5d57a012)
