@@ -22,6 +22,8 @@
 
 [Day09. 배열2](https://www.notion.so/Day09-2-e6ff41b047b44ef8a0cdc53fb92b0bb7)
 
+[Day10. 배열3](https://www.notion.so/Day10-3-6a4610808fd840338f101e48472466d9)
+
 ---
 
 # MYSQL
