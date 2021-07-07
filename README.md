@@ -18,6 +18,8 @@
 
 [Day06. 제어문4](https://www.notion.so/Day06-4-c59242cc0bdf44efbef571cf8b6e12ef)
 
+[Day07. 제어문5, Scanner](https://www.notion.so/Day07-5-Scanner-e0662af311ea4b2f8ffc78579af65912)
+
 [Day08. 배열1](https://www.notion.so/Day08-1-4d1156da850a470399a8ec175b1a6d74)
 
 [Day09. 배열2](https://www.notion.so/Day09-2-e6ff41b047b44ef8a0cdc53fb92b0bb7)
@@ -25,6 +27,8 @@
 [Day10. 배열3](https://www.notion.so/Day10-3-6a4610808fd840338f101e48472466d9)
 
 [Day11. 배열4](https://www.notion.so/Day11-4-5198688cb5e14a01b3305808fe04e3d0)
+
+[Day12. 배열5](https://www.notion.so/Day12-5-9bdaa466045843ef9f85568c63618ed5)
 
 ---
 
