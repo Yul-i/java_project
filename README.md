@@ -24,11 +24,11 @@
 
 [Day09. 배열2](https://www.notion.so/Day09-2-e6ff41b047b44ef8a0cdc53fb92b0bb7)
 
-[Day10. 배열3](https://www.notion.so/Day10-3-6a4610808fd840338f101e48472466d9)
+[Day10. 배열3(크기)](https://www.notion.so/Day10-3-6a4610808fd840338f101e48472466d9)
 
-[Day11. 배열4](https://www.notion.so/Day11-4-5198688cb5e14a01b3305808fe04e3d0)
+[Day11. 배열4(깊은/얕은 복사, 메서드)](https://www.notion.so/Day11-4-5198688cb5e14a01b3305808fe04e3d0)
 
-[Day12. 배열5](https://www.notion.so/Day12-5-9bdaa466045843ef9f85568c63618ed5)
+[Day12. 배열5(2차원배열, 이중for문)](https://www.notion.so/Day12-5-2-for-9bdaa466045843ef9f85568c63618ed5)
 
 ---
 
