@@ -43,3 +43,6 @@
 [1. 0624 정리](https://www.notion.so/0624-5668c368c4df4c66a45c2c53e091d06c)
 
 [2. 0701 정리](https://www.notion.so/0701-4d73dd80ef7c48698fdfe9cf5d57a012)
+
+[3. 0708 정리](https://www.notion.so/0708-c3ba7dbef2ee4d9ba347e92374674ab5)
+
