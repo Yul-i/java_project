@@ -30,6 +30,8 @@
 
 [Day12. 배열5(2차원배열, 이중for문)](https://www.notion.so/Day12-5-2-for-9bdaa466045843ef9f85568c63618ed5)
 
+[Day13. 배열6(알고리즘)/클래스](https://www.notion.so/Day13-6-c4a2fc1a94504f5a97316701b174c624)
+
 ---
 
 # MYSQL
@@ -45,4 +47,3 @@
 [2. 0701 정리](https://www.notion.so/0701-4d73dd80ef7c48698fdfe9cf5d57a012)
 
 [3. 0708 정리](https://www.notion.so/0708-c3ba7dbef2ee4d9ba347e92374674ab5)
-
