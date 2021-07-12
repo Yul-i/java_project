@@ -30,13 +30,19 @@
 
 [Day12. 배열5(2차원배열, 이중for문)](https://www.notion.so/Day12-5-2-for-9bdaa466045843ef9f85568c63618ed5)
 
-[Day13. 배열6(알고리즘)/클래스](https://www.notion.so/Day13-6-c4a2fc1a94504f5a97316701b174c624)
+[Day13. 배열6(알고리즘)/클래스1](https://www.notion.so/Day13-6-c4a2fc1a94504f5a97316701b174c624)
+
+[Day14. 클래스2/Connector 설치](https://www.notion.so/Day14-2-Connector-b5da723665304032bba61e6abef384be)
+
+[Day15. 클래스3/DB 연결](https://www.notion.so/Day15-3-DB-a02c533803254aaaa54c5a399053e497)
 
 ---
 
 # MYSQL
 
-[Day01. Hello MySQL..!](https://www.notion.so/Day01-Hello-MySQL-83bfe2770dff449cae5caa9ba960fa29)
+[Day07. Hello MySQL..!](https://www.notion.so/Day01-Hello-MySQL-83bfe2770dff449cae5caa9ba960fa29)
+
+[Day15. SQL문 작성](https://www.notion.so/Day15-SQL-ac4307a0fcab49e49f88eec2b39cfcbc)
 
 ---
 
@@ -47,3 +53,5 @@
 [2. 0701 정리](https://www.notion.so/0701-4d73dd80ef7c48698fdfe9cf5d57a012)
 
 [3. 0708 정리](https://www.notion.so/0708-c3ba7dbef2ee4d9ba347e92374674ab5)
+
+[4. 0712 정리](https://www.notion.so/0712-b383f1e9a4d4484db08bca2e8181b90a)
