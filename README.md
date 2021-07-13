@@ -36,6 +36,8 @@
 
 [Day15. 클래스3/DB 연결](https://www.notion.so/Day15-3-DB-a02c533803254aaaa54c5a399053e497)
 
+day16. 1차 시험
+
 ---
 
 # MYSQL
