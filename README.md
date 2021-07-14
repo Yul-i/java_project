@@ -38,7 +38,7 @@
 
 day16. 1차 시험
 
-[Day17. 제약조건, Key](https://www.notion.so/Day17-Key-9fc4dece5f7d49a7894c83f434a485e1)
+[Day17. DB 연결2](https://www.notion.so/Day17-DB-2-e1d2652e47a54c3c8dbd65f547a2b628)
 
 ---
 
@@ -48,7 +48,7 @@ day16. 1차 시험
 
 [Day15. SQL문 작성](https://www.notion.so/Day15-SQL-ac4307a0fcab49e49f88eec2b39cfcbc)
 
-[Day17. DB 연결2](https://www.notion.so/Day17-DB-2-e1d2652e47a54c3c8dbd65f547a2b628)
+[Day17. 제약조건, Key](https://www.notion.so/Day17-Key-9fc4dece5f7d49a7894c83f434a485e1)
 
 ---
 
