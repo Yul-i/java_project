@@ -38,9 +38,9 @@
 
 day16. 1차 시험
 
-[Day17. DB 연결2](https://www.notion.so/Day17-DB-2-e1d2652e47a54c3c8dbd65f547a2b628)
+[Day17. DB 연결2(create, update, delete)](https://www.notion.so/Day17-DB-2-create-update-delete-e1d2652e47a54c3c8dbd65f547a2b628)
 
-[Day18. DB 연결3](https://www.notion.so/Day18-DB-3-b8d5c2d69b8a4124a2cef41235f2f159)
+[Day18. DB 연결3(read)](https://www.notion.so/Day18-DB-3-read-b8d5c2d69b8a4124a2cef41235f2f159)
 
 ---
 
