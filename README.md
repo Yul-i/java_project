@@ -63,3 +63,5 @@ day16. 1차 시험
 [3. 0708 정리](https://www.notion.so/0708-c3ba7dbef2ee4d9ba347e92374674ab5)
 
 [4. 0712 정리](https://www.notion.so/0712-b383f1e9a4d4484db08bca2e8181b90a)
+
+[5. 0716 정리](https://www.notion.so/0716-8f96e5227dd44ebb9931e92525ceca7d)
