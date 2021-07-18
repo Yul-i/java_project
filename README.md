@@ -42,6 +42,8 @@ day16. 1차 시험
 
 [Day18. DB 연결3(read)](https://www.notion.so/Day18-DB-3-read-b8d5c2d69b8a4124a2cef41235f2f159)
 
+[Day19. Project0](https://www.notion.so/Day19-Project0-88659a97a0b947e89bc00f54b36bbc14)
+
 ---
 
 # MYSQL
