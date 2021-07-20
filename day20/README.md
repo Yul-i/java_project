@@ -23,7 +23,7 @@
 
 ## 2. Dynamic Web Project
 
-### 1. 생성
+### 1) 생성
 
 - 작업은 JavaEE에서 해야한다.
 - JavaEE(자바 플랫폼, 엔터프라이즈 에디션은 자바를 이용한 서버측 개발을 위한 플랫폼이다.)
@@ -33,11 +33,16 @@
 - HTML, JSP 등의 작업 폴더는 Src-main-webapp 이다.
 - HTML을  webapp폴더 안에 생성해준다. JSP 파일도 동일하다.
 
-### 2. 개발자 도구
+### 2) 개발자 도구
 
 - 브라우저에서 개발자를 위한 다양한 도구를 제공한다.
 - F12 키를 누르면 뜬다.
-- 
+
+### 3) UTF-8 설정
+
+- Window - Preferences - Web - HTML/CSS/JSP를 UTF-8로 설정해준다.
+
+
 ## 2. HTML, CSS, JavaScript 맛보기
 
 ### 1)HTML
