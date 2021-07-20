@@ -44,6 +44,8 @@ day16. 1차 시험
 
 [Day19. Project0](https://www.notion.so/Day19-Project0-88659a97a0b947e89bc00f54b36bbc14)
 
+[Day20. TomCat, JSP 맛보기](https://www.notion.so/Day20-TomCat-JSP-b3c7c5e51c3b483cbd7764423593811d)
+
 ---
 
 # MYSQL
