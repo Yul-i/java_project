@@ -1,0 +1,12 @@
+@charset "UTF-8";
+body{
+	background: #ffff00;
+}
+
+/* h1에 해당하는 스타일을 괄호안에 여러가지 지정 가능*/
+/* */
+h1{
+	width : 300px;
+	height : 100px;
+	background: lime;	
+}
