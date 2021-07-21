@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+	<h2>게 시 판</h2>
+	<form action="insert2.jsp">
+		<table border="1">
+			<tr>
+				<th>제목</th>
+				<td><input type="text" name="title"></td>
+			</tr>
+			<tr>
+				<th>글쓴이</th>
+				<td><input type="text" name="auther"></td>
+			</tr>
+			<tr>
+				<th>내용</th>
+				<td><textarea rows="20" cols="30" placeholder="내용을 입력해주세요." name="content"></textarea></td>
+			</tr>
+			<tr>
+				<th>종류</th>
+				<td>
+					<input type="radio" name="type" value="문의사항">문의사항
+					<input type="radio" name="type" value="답변">답변					
+					<input type="radio" name="type" value="확인">확인
+				</td>
+			</tr>
+			<tr>
+				<th>부서</th>
+				<td>
+					<select name="dpart">
+						<option value="기획부">기획부 
+						<option value="총무부">총무부 
+						<option value="인사부">인사부 
+					</select>
+				</td>
+			</tr>
+			<tr>
+				<th>날짜</th>
+				<td><input type="text" name="today" placeholder="00/00로 작성해주세요."></td>
+			</tr>
+		</table>
+		<button type="submit">글 작성하기</button>
+	</form>
+</body>
+</html>
