@@ -46,6 +46,8 @@ day16. 1차 시험
 
 [Day20. TomCat, JSP 맛보기](https://www.notion.so/Day20-TomCat-JSP-b3c7c5e51c3b483cbd7764423593811d)
 
+[Day21. HTML, JSP, 생성자](https://www.notion.so/Day21-HTML-JSP-9e0ae3986b0e40bcad688d142ecf9da0)
+
 ---
 
 # MYSQL
