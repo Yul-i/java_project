@@ -48,6 +48,8 @@ day16. 1차 시험
 
 [Day21. HTML, JSP, 생성자](https://www.notion.so/Day21-HTML-JSP-9e0ae3986b0e40bcad688d142ecf9da0)
 
+[Day22. 컬렉션, socket, CSS](https://www.notion.so/Day22-socket-CSS-485cc8bb5b51498084563c275234094b)
+
 ---
 
 # MYSQL
