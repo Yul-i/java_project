@@ -1,0 +1,16 @@
+@charset "UTF-8";
+
+body{
+	background : pink; /* 배경색 지정 */
+	color : purple; /* 글자색 지정 */
+}	
+
+hr{
+	width : 500px;
+	height : 5px;
+	background: white;
+}
+
+h1, h3{
+	text-align: center;
+}
