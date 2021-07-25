@@ -50,6 +50,8 @@ day16. 1차 시험
 
 [Day22. 컬렉션, socket, CSS](https://www.notion.so/Day22-socket-CSS-485cc8bb5b51498084563c275234094b)
 
+[Day23. File/JSP/CSS](https://www.notion.so/Day23-File-JSP-CSS-6fb825f7ed364266a5925b4aec442e52)
+
 ---
 
 # MYSQL
@@ -73,3 +75,5 @@ day16. 1차 시험
 [4. 0712 정리](https://www.notion.so/0712-b383f1e9a4d4484db08bca2e8181b90a)
 
 [5. 0716 정리](https://www.notion.so/0716-8f96e5227dd44ebb9931e92525ceca7d)
+
+[6. 0723 정리](https://www.notion.so/0723-8188c758b49f481abc73048417a4e3ce)
