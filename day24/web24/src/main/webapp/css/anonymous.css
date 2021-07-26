@@ -1,0 +1,159 @@
+@charset "UTF-8";
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;700&display=swap');
+
+/* 초기화 */
+.container{
+	width : 1280px;
+	height : 100%;
+	margin : 0 auto;
+	text-align : center;
+}
+
+
+li{
+	list-style: none;	
+}
+
+a{
+	text-decoration : none;
+	color : black;
+	font-weight: bold;
+}
+
+
+body{
+	font-family: 'Noto Sans KR', sans-serif;
+}
+
+/* header */
+
+header{
+	height : 150px;
+}
+
+header .container{
+	border-bottom : 1px solid black;
+}
+
+header #logo{
+	margin: 20px 30px;
+}
+
+header nav{
+	line-height: 3.5;
+    font-size: 24px;
+}
+
+header>nav>ul{
+	width : 600px;
+}
+
+header nav>ul>li{
+	width: 160px;
+    text-align: center;
+    float : left;
+	margin : 0 20px;
+}
+
+header>nav>ul>li>a{
+	transition : color 1s;
+}
+
+header>li>a:hover{
+	color:white
+}
+
+header>div>*{
+	float : left;
+}
+
+header aside{
+	float : right;
+	margin: 0 30px;
+    line-height: 10;
+}
+
+header aside .material-icons{
+	font-size:40px;
+}
+
+
+/* main */
+
+.main_wrap h2{
+	margin: 50px 0;
+} 
+
+.main_wrap .img_intro{
+	margin: 100px auto;
+	width : 500px;
+	height : 500px;
+}
+
+.main_wrap .img_intro img{
+	width : 100%;
+}
+
+
+
+/* intro */
+.intro_wrap .img_intro{
+	width : 400px;
+	height : 400px;
+}
+
+.intro_wrap .img_intro img{
+	width : 100%;
+}
+
+.intro_wrap .left, .intro_wrap .right{
+	float :left;
+	width : 50%;
+}
+
+.intro_wrap .right>ul{
+	margin-top : 150px;
+}
+
+.intro_wrap .right>ul>li{
+	padding: 20px 0;
+	font-size : 24px;
+}
+
+
+/* family */
+.family_wrap .group{
+	margin-top : 150px;
+}
+
+.family_wrap .img_intro{
+	margin : 0 auto;
+	width : 300px;
+	height : 300px;
+}
+
+.family_wrap .img_intro img{
+	width : 100%;
+}
+
+.family_wrap .grid{
+
+	width : 33.3%;
+	float : left;
+}
+
+/* goods */
+.goods_wrap .img_intro{
+	margin : 0 auto;
+	width : 100%;
+	height : 100%;
+}
+
+.goods_wrap .img_intro img{
+	width : 100%;
+}
+
+.goods_wrap .group{
+	margin-top : 100px;
+}
+
