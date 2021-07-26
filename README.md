@@ -52,6 +52,8 @@ day16. 1차 시험
 
 [Day23. File/JSP/CSS](https://www.notion.so/Day23-File-JSP-CSS-6fb825f7ed364266a5925b4aec442e52)
 
+[Day24. DTO/Getters&Setters/JSP-DB](https://www.notion.so/Day24-DTO-Getters-Setters-JSP-DB-1711df677f2540dbbfa3eebd65a1b16a)
+
 ---
 
 # MYSQL
