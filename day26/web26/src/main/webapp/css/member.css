@@ -1,0 +1,38 @@
+@charset "UTF-8";
+/* 선택자 */
+input{
+	font-size : 40px;
+	height : 100px;
+}
+
+body{/* 선택 : 태그 */
+	color : blue;
+	font-size : 40px;
+}
+
+button{
+	background : red;
+	color : white;
+	font-weight: bold;
+	font-size : 40px;
+}
+#data{/* 선택 : 아이디 */
+	font-style : italic;
+}
+
+.left{/* 선택 : 클래스- 그룹을 지어서 여러개를 동일한 효과를 주고자 하는 경우 */
+	background : yellow;
+	height : 100px;
+	width : 200px;
+	text-align : center;
+}
+
+.right{
+	width : 300px;/* css에서 스타일을 숫자로 지정하는 경우 px를 써준다. */
+	background : fuchsia;
+}
+.bottom{
+	text-align :center;
+	background : maroon;
+	height :100px;
+}
