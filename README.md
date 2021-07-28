@@ -54,6 +54,10 @@ day16. 1차 시험
 
 [Day24. DTO/Getters&Setters/JSP-DB](https://www.notion.so/Day24-DTO-Getters-Setters-JSP-DB-1711df677f2540dbbfa3eebd65a1b16a)
 
+Day25. 2차 시험
+
+[Day26.  UI-DTO-DAO-DB(create, update, delete)](https://www.notion.so/Day26-UI-DTO-DAO-DB-create-update-delete-e047cbae61ca470995852fbdafd4bc6e)
+
 ---
 
 # MYSQL
