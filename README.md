@@ -58,6 +58,8 @@ Day25. 2차 시험
 
 [Day26.  UI-DTO-DAO-DB(create, update, delete)](https://www.notion.so/Day26-UI-DTO-DAO-DB-create-update-delete-e047cbae61ca470995852fbdafd4bc6e)
 
+[Day27.  UI-DTO-DAO-DB(Read)](https://www.notion.so/Day27-UI-DTO-DAO-DB-Read-9fedc04e50e24a4abf79182bfc5c29c3)
+
 ---
 
 # MYSQL
