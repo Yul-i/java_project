@@ -60,6 +60,8 @@ Day25. 2차 시험
 
 [Day27.  UI-DTO-DAO-DB(Read)](https://www.notion.so/Day27-UI-DTO-DAO-DB-Read-9fedc04e50e24a4abf79182bfc5c29c3)
 
+[Day28. read, 크롤링  ](https://www.notion.so/Day28-read-e5e1e5ffc65745f889f5fb6f16490026)
+
 ---
 
 # MYSQL
