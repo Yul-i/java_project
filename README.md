@@ -64,6 +64,8 @@ Day25. 2차 시험
 
 [Day29. JS/구글차트](https://www.notion.so/Day29-JS-3de15d3ad33d4d438cf2cf5cc8c24815)
 
+[Day30. 세션/쿠키](https://www.notion.so/Day30-c1d5c548d4a34920905c1be2eb770827)
+
 ---
 
 # MYSQL
