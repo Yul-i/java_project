@@ -62,6 +62,8 @@ Day25. 2차 시험
 
 [Day28. read, 크롤링  ](https://www.notion.so/Day28-read-e5e1e5ffc65745f889f5fb6f16490026)
 
+[Day29. JS/구글차트](https://www.notion.so/Day29-JS-3de15d3ad33d4d438cf2cf5cc8c24815)
+
 ---
 
 # MYSQL
