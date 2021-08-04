@@ -66,6 +66,8 @@ Day25. 2차 시험
 
 [Day30. 세션/쿠키](https://www.notion.so/Day30-c1d5c548d4a34920905c1be2eb770827)
 
+[Day31. JS2/오픈소스(결제)](https://www.notion.so/Day31-JS2-9c5afbcd12d64832a7ea4bde2655d40b)
+
 ---
 
 # MYSQL
