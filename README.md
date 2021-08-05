@@ -95,3 +95,5 @@ Day25. 2차 시험
 [5. 0716 정리](https://www.notion.so/0716-8f96e5227dd44ebb9931e92525ceca7d)
 
 [6. 0723 정리](https://www.notion.so/0723-8188c758b49f481abc73048417a4e3ce)
+
+[7. 0805 정리](https://www.notion.so/0805-0ec9fad568b84d778516b90f2d0ac289)
