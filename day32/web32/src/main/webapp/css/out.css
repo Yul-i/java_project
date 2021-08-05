@@ -1,0 +1,59 @@
+@charset "UTF-8";
+a{
+	text-decoration : none;
+	color : red;
+	transition:1s;
+}
+
+a:hover{/* 마우스를 a태그에 올렸을 때 효과 */
+	color : white;
+	text-decoration : overline;
+}
+
+#total{
+	width : 800px;
+	height : 800px;
+	background : lime;
+}
+
+#top{
+	width : 800px;
+	height : 100px;
+	background : aqua;
+}
+
+#top2{
+	width : 300px;
+	height : 100px;
+	background : black;
+	color : white;
+	position : fixed;
+	top : 5px;
+	right : 5px;
+	border-radius : 100px 0 100px 0;
+}
+
+#center{
+	width : 800px;
+	height : 500px;	
+	background : url('../img/ahah.jpg');
+	background-size: cover;
+}
+
+li{
+	list-style : none;
+	float : left;
+	font-size : 25px;
+	background : orange;
+	padding : 10px;
+	margin : 5px;
+	transition :1s;
+}
+li:nth-child(2n+1){
+	background : yellow;
+}
+
+li:hover{
+	background : pink;
+	border-radius: 30px;
+}
