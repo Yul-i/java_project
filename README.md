@@ -68,6 +68,8 @@ Day25. 2차 시험
 
 [Day31. JS2/오픈소스(결제)](https://www.notion.so/Day31-JS2-9c5afbcd12d64832a7ea4bde2655d40b)
 
+[Day32. jQuery/DOM](https://www.notion.so/Day32-jQuery-DOM-050924fe6fb4483692142ffd216abff7)
+
 ---
 
 # MYSQL
