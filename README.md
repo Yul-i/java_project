@@ -70,6 +70,8 @@ Day25. 2차 시험
 
 [Day32. jQuery/DOM](https://www.notion.so/Day32-jQuery-DOM-050924fe6fb4483692142ffd216abff7)
 
+Day33. 1차 프로젝트 작업
+
 ---
 
 # MYSQL
