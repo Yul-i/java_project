@@ -76,7 +76,7 @@ Day34. 3차 시험
 
 [Day35. UML, 상속, Servlet](https://www.notion.so/Day35-UML-Servlet-917aaa6f34a143fb8c9e04d8a852dd64)
 
-Day 35. 1차 프로젝트 작업
+Day36. 1차 프로젝트 작업
 
 ---
 
