@@ -80,6 +80,10 @@ Day36. 1차 프로젝트 작업
 
 [Day37. Thread, Static, 예외처리](https://www.notion.so/Day37-Thread-Static-9e410327a3e64278820a5ff989787f66)
 
+Day38. 1차 프로젝트 발표
+
+Day39. 1차 프로젝트 후 포트폴리오
+
 ---
 
 # MYSQL
