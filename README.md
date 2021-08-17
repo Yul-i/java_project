@@ -114,6 +114,6 @@ Day39. 1차 프로젝트 후 포트폴리오
 
 ---
 
-##Project
+## Project
 
 [JSP project](https://github.com/Yul-i/java_project/tree/main/project1)
