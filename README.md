@@ -84,6 +84,8 @@ Day38. 1차 프로젝트 발표
 
 Day39. [1차 프로젝트 후 포트폴리오 제작](https://github.com/Yul-i/java_project/tree/main/project1)
 
+[Day40. 자바 기본 복습](https://www.notion.so/Day40-da7ad31641e94291b54624346eed1f85)
+
 ---
 
 # MYSQL
