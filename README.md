@@ -116,4 +116,4 @@ Day39. 1차 프로젝트 후 포트폴리오
 
 ## Project
 
-[JSP project](https://github.com/Yul-i/java_project/tree/main/project1)
+[JSP, MYSql 이용한 웹 쇼핑몰 project](https://github.com/Yul-i/java_project/tree/main/project1)
