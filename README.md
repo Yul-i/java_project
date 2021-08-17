@@ -111,3 +111,9 @@ Day39. 1차 프로젝트 후 포트폴리오
 [6. 0723 정리](https://www.notion.so/0723-8188c758b49f481abc73048417a4e3ce)
 
 [7. 0805 정리](https://www.notion.so/0805-0ec9fad568b84d778516b90f2d0ac289)
+
+---
+
+##Project
+
+[JSP project](https://github.com/Yul-i/java_project/tree/main/project1)
