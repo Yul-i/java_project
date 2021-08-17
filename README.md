@@ -2,6 +2,11 @@
 
 ## 자바/안드로이드 교육 中 (2021.06.22~ )
 
+
+## Project
+
+[JSP, MYSql 이용한 웹 쇼핑몰 project](https://github.com/Yul-i/Makgeolli_Market)
+
 ---
 
 # JAVA
@@ -82,7 +87,7 @@ Day36. 1차 프로젝트 작업
 
 Day38. 1차 프로젝트 발표
 
-Day39. [1차 프로젝트 후 포트폴리오 제작](https://github.com/Yul-i/java_project/tree/main/project1)
+Day39. [1차 프로젝트 후 포트폴리오 제작](https://github.com/Yul-i/Makgeolli_Market)
 
 [Day40. 자바 기본 복습](https://www.notion.so/Day40-da7ad31641e94291b54624346eed1f85)
 
@@ -116,6 +121,3 @@ Day39. [1차 프로젝트 후 포트폴리오 제작](https://github.com/Yul-i/j
 
 ---
 
-## Project
-
-[JSP, MYSql 이용한 웹 쇼핑몰 project](https://github.com/Yul-i/java_project/tree/main/project1)
