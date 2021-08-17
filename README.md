@@ -82,7 +82,7 @@ Day36. 1차 프로젝트 작업
 
 Day38. 1차 프로젝트 발표
 
-Day39. 1차 [프로젝트 후 포트폴리오](https://github.com/Yul-i/java_project/tree/main/project1)
+Day39. [1차 프로젝트 후 포트폴리오 제작](https://github.com/Yul-i/java_project/tree/main/project1)
 
 ---
 
