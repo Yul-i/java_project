@@ -91,6 +91,8 @@ Day39. [1차 프로젝트 후 포트폴리오 제작](https://github.com/Yul-i/M
 
 [Day40. 자바 기본 복습](https://www.notion.so/Day40-da7ad31641e94291b54624346eed1f85)
 
+[Day41. 리눅스(ubuntu)설치&Hashset](https://www.notion.so/Day41-ubuntu-Hashset-fed7ba19c39c473fbaac507c12cd4371)
+
 ---
 
 # MYSQL
