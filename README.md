@@ -93,6 +93,8 @@ Day39. [1차 프로젝트 후 포트폴리오 제작](https://github.com/Yul-i/M
 
 [Day41. 리눅스(ubuntu)설치&Hashset](https://www.notion.so/Day41-ubuntu-Hashset-fed7ba19c39c473fbaac507c12cd4371)
 
+[Day42.리눅스 명령어, JDK 설치](https://www.notion.so/Day42-JDK-4ae57dd3e15f420da53c0119137b5775)
+
 ---
 
 # MYSQL
