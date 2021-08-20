@@ -4,6 +4,7 @@
 
 
 ## Project
+[Swing, MySql 이용한 여행사 페이지](https://github.com/Yul-i/swing_tour)
 
 [JSP, MYSql 이용한 웹 쇼핑몰 project](https://github.com/Yul-i/Makgeolli_Market)
 
