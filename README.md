@@ -125,5 +125,7 @@ Day39. [1차 프로젝트 후 포트폴리오 제작](https://github.com/Yul-i/M
 
 [7. 0805 정리](https://www.notion.so/0805-0ec9fad568b84d778516b90f2d0ac289)
 
+[8. 0820 정리](https://www.notion.so/0820-f0a5a1d97b5a42a1898771c7ee3107e2)
+
 ---
 
