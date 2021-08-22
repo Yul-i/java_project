@@ -12,121 +12,127 @@
 
 # JAVA
 
-[Day01. Hello Java..!](https://www.notion.so/Day01-Hello-Java-902eb28c1ec74584b31e468c57c0f6e5)
+[Day01. Hello Java..!](https://www.notion.so/Day01-Hello-Java-04510cfdc1044ae6b6bd7a07d484f62e)
 
-[Day02. 데이터, 간단한 처리(연산자)](https://www.notion.so/Day02-3c677de3f2b34935be40faf63169a249)
+[Day02. 데이터, 간단한 처리(연산자)](https://www.notion.so/Day02-b2726ed9bba348889dcb37b41923693d)
 
-[Day03. 제어문1](https://www.notion.so/Day03-1-98c9f9e94d6e4a9681b97acbb3fe10f8)
+[Day03. 제어문1](https://www.notion.so/Day03-1-b6cc06985cf24ed398ddee76403c784c)
 
-[Day04. 제어문2](https://www.notion.so/Day04-2-458e92a65a9a4b5fb83063a8ecaceb56)
+[Day04. 제어문2](https://www.notion.so/Day04-2-48069f0fa92844e58e2fd3b2d9e20eb1)
 
-[Day05. 제어문3, Random, Date](https://www.notion.so/Day05-3-Random-Date-af202cd70a28413fbc03895de1ff6488)
+[Day05. 제어문3, Random, Date](https://www.notion.so/Day05-3-Random-Date-6b4c15c41a064f558ceeec1de0ac3d2d)
 
-[Day06. 제어문4](https://www.notion.so/Day06-4-c59242cc0bdf44efbef571cf8b6e12ef)
+[Day06. 제어문4](https://www.notion.so/Day06-4-69d43d8ba84e4377b772b450cff203e3)
 
-[Day07. 제어문5, Scanner](https://www.notion.so/Day07-5-Scanner-e0662af311ea4b2f8ffc78579af65912)
+[Day07. 제어문5, Scanner](https://www.notion.so/Day07-5-Scanner-5554eaa9298040d0ab714c60da774158)
 
-[Day08. 배열1](https://www.notion.so/Day08-1-4d1156da850a470399a8ec175b1a6d74)
+[Day07. Hello MySQL..!](https://www.notion.so/Day07-Hello-MySQL-6b06be3db50844e39e551c2cd724dfc2)
 
-[Day09. 배열2](https://www.notion.so/Day09-2-e6ff41b047b44ef8a0cdc53fb92b0bb7)
+[Day08. 배열1](https://www.notion.so/Day08-1-d534f4d98f9346e587fe061ba0689402)
 
-[Day10. 배열3(크기)](https://www.notion.so/Day10-3-6a4610808fd840338f101e48472466d9)
+[Day09. 배열2](https://www.notion.so/Day09-2-73cb94a02eef4692b6a4895c847da41e)
 
-[Day11. 배열4(깊은/얕은 복사, 메서드)](https://www.notion.so/Day11-4-5198688cb5e14a01b3305808fe04e3d0)
+[Day10. 배열3(크기)](https://www.notion.so/Day10-3-9036243634b44e0993c6751bf040a3d4)
 
-[Day12. 배열5(2차원배열, 이중for문)](https://www.notion.so/Day12-5-2-for-9bdaa466045843ef9f85568c63618ed5)
+[Day11. 배열4(깊은/얕은 복사, 메서드)](https://www.notion.so/Day11-4-366523af4edf46eb91f759cf5531049b)
 
-[Day13. 배열6(알고리즘)/클래스1](https://www.notion.so/Day13-6-c4a2fc1a94504f5a97316701b174c624)
+[Day12. 배열5(2차원배열, 이중for문)](https://www.notion.so/Day12-5-2-for-a7497e57c4a64e67879535af3f6b1d64)
 
-[Day14. 클래스2/Connector 설치](https://www.notion.so/Day14-2-Connector-b5da723665304032bba61e6abef384be)
+[Day13. 배열6(알고리즘)/클래스1](https://www.notion.so/Day13-6-1-4e011b13557a4242899ff15a17bcc4c9)
 
-[Day15. 클래스3/DB 연결](https://www.notion.so/Day15-3-DB-a02c533803254aaaa54c5a399053e497)
+[Day14. 클래스2/Connector 설치](https://www.notion.so/Day14-2-Connector-a332d080fe3b454e80258e34d11b55e1)
 
-day16. 1차 시험
+[Day15. 클래스3/DB 연결1](https://www.notion.so/Day15-3-DB-1-8a5d6f70233a4a6a9289471eaf74fc6b)
 
-[Day17. DB 연결2(create, update, delete)](https://www.notion.so/Day17-DB-2-create-update-delete-e1d2652e47a54c3c8dbd65f547a2b628)
+[Day15. SQL문 작성](https://www.notion.so/Day15-SQL-8643da1fccfb4b03a0851471d7879fb8)
 
-[Day18. DB 연결3(read)](https://www.notion.so/Day18-DB-3-read-b8d5c2d69b8a4124a2cef41235f2f159)
+- Day16. 1차 시험
 
-[Day19. Project0](https://www.notion.so/Day19-Project0-88659a97a0b947e89bc00f54b36bbc14)
+[Day17. DB 연결2(create, update, delete)](https://www.notion.so/Day17-DB-2-create-update-delete-417968e5c5a743e4b45075fcf8cff73a)
 
-[Day20. TomCat, JSP 맛보기](https://www.notion.so/Day20-TomCat-JSP-b3c7c5e51c3b483cbd7764423593811d)
+[Day17. 제약조건, Key](https://www.notion.so/Day17-Key-1ea2eb3fa8c14f5598475e8c4879b5b2)
 
-[Day21. HTML, JSP, 생성자](https://www.notion.so/Day21-HTML-JSP-9e0ae3986b0e40bcad688d142ecf9da0)
+[Day18. DB 연결3(read)](https://www.notion.so/Day18-DB-3-read-2a7b931941204b34ac6c377cf9ed368e)
 
-[Day22. 컬렉션, socket, CSS](https://www.notion.so/Day22-socket-CSS-485cc8bb5b51498084563c275234094b)
+[Day19. Project0](https://www.notion.so/Day19-Project0-21ddf61b19b1413d83341550225397a1)
 
-[Day23. File/JSP/CSS](https://www.notion.so/Day23-File-JSP-CSS-6fb825f7ed364266a5925b4aec442e52)
+[Day20. TomCat, JSP 맛보기](https://www.notion.so/Day20-TomCat-JSP-28792f4f58234354b77e1d91b00c4b3f)
 
-[Day24. DTO/Getters&Setters/JSP-DB](https://www.notion.so/Day24-DTO-Getters-Setters-JSP-DB-1711df677f2540dbbfa3eebd65a1b16a)
+[Day21. HTML, JSP, 생성자](https://www.notion.so/Day21-HTML-JSP-99c1f348a74448089b8e2240b6b63b32)
 
-Day25. 2차 시험
+[Day22. 컬렉션, socket, CSS](https://www.notion.so/Day22-socket-CSS-00544c4c738a47998f44fb71a387d7e6)
 
-[Day26.  UI-DTO-DAO-DB(create, update, delete)](https://www.notion.so/Day26-UI-DTO-DAO-DB-create-update-delete-e047cbae61ca470995852fbdafd4bc6e)
+[Day23. File/JSP/CSS](https://www.notion.so/Day23-File-JSP-CSS-4ba356f645534290a28328def52ddd50)
 
-[Day27.  UI-DTO-DAO-DB(Read)](https://www.notion.so/Day27-UI-DTO-DAO-DB-Read-9fedc04e50e24a4abf79182bfc5c29c3)
+[Day24. DTO/Getters&Setters/JSP-DB](https://www.notion.so/Day24-DTO-Getters-Setters-JSP-DB-63bd9a69fe334e398e7eb57e0b198a35)
 
-[Day28. read, 크롤링  ](https://www.notion.so/Day28-read-e5e1e5ffc65745f889f5fb6f16490026)
+- Day25. 2차 시험
 
-[Day29. JS/구글차트](https://www.notion.so/Day29-JS-3de15d3ad33d4d438cf2cf5cc8c24815)
+[Day26.  UI-DTO-DAO-DB(create, update, delete)](https://www.notion.so/Day26-UI-DTO-DAO-DB-create-update-delete-2006177961bc48af9ecdd69f5ef7361a)
 
-[Day30. 세션/쿠키](https://www.notion.so/Day30-c1d5c548d4a34920905c1be2eb770827)
+[Day27.  UI-DTO-DAO-DB(Read)](https://www.notion.so/Day27-UI-DTO-DAO-DB-Read-0d79fabcda2e45a6a64376dd3eb2072c)
 
-[Day31. JS2/오픈소스(결제)](https://www.notion.so/Day31-JS2-9c5afbcd12d64832a7ea4bde2655d40b)
+[Day28. read, 크롤링](https://www.notion.so/Day28-read-1c437d1dcef04e2eb1515b99f44a5346)
 
-[Day32. jQuery/DOM](https://www.notion.so/Day32-jQuery-DOM-050924fe6fb4483692142ffd216abff7)
+[Day29. JS/구글차트](https://www.notion.so/Day29-JS-b84e61b310b5496bab9f0a93f03d3114)
 
-Day33. 1차 프로젝트 작업
+[Day30. 세션/쿠키](https://www.notion.so/Day30-8362109460d740b28d4acefbb0d6f495)
 
-Day34. 3차 시험
+[Day31. JS2/오픈소스(결제)](https://www.notion.so/Day31-JS2-f468f3c2b2d24669b93f765160e20ca0)
 
-[Day35. UML, 상속, Servlet](https://www.notion.so/Day35-UML-Servlet-917aaa6f34a143fb8c9e04d8a852dd64)
+[Day32. jQuery/DOM](https://www.notion.so/Day32-jQuery-DOM-b3489aaa19174b08bc3e5c72828989ec)
 
-Day36. 1차 프로젝트 작업
+- Day33. 1차 프로젝트
 
-[Day37. Thread, Static, 예외처리](https://www.notion.so/Day37-Thread-Static-9e410327a3e64278820a5ff989787f66)
+- Day34. 3차 시험
 
-Day38. 1차 프로젝트 발표
+[Day35. UML, 상속, Servlet](https://www.notion.so/Day35-UML-Servlet-6ad5c2e1300e443fbd41661c71930129)
 
-Day39. [1차 프로젝트 후 포트폴리오 제작](https://github.com/Yul-i/Makgeolli_Market)
+- Day36. 1차 프로젝트
 
-[Day40. 자바 기본 복습](https://www.notion.so/Day40-da7ad31641e94291b54624346eed1f85)
+[Day37. Thread, Static, 예외처리](https://www.notion.so/Day37-Thread-Static-2b0a413a8dad4152bb3cf4c8ddb5c30d)
 
-[Day41. 리눅스(ubuntu)설치&Hashset](https://www.notion.so/Day41-ubuntu-Hashset-fed7ba19c39c473fbaac507c12cd4371)
+- Day38. 1차 프로젝트 발표
 
-[Day42. 리눅스 명령어, JDK 설치](https://www.notion.so/Day42-JDK-4ae57dd3e15f420da53c0119137b5775)
+- Day39. 1차 포트폴리오 작성
 
-[Day43. 리눅스 명령어2](https://www.notion.so/Day43-2-ac44e22f7cac45eb876ff82fdf8e9a87)
+[Day40. 자바 기본 복습](https://www.notion.so/Day40-c32e57fae0094c3f9811e8ca01c685d5)
+
+[Day41. 리눅스(ubuntu)설치&Hashset](https://www.notion.so/Day41-ubuntu-Hashset-83a323d03e7248b2985c8e920651fdce)
+
+[Day42. 리눅스 명령어, JDK 설치](https://www.notion.so/Day42-JDK-0dae5e8b73294673be8b8718d3e56fa8)
+
+[Day43. 리눅스 명령어2](https://www.notion.so/Day43-2-7c74e557502a4066986e985c5ee8f649)
 
 ---
 
 # MYSQL
 
-[Day07. Hello MySQL..!](https://www.notion.so/Day01-Hello-MySQL-83bfe2770dff449cae5caa9ba960fa29)
+[Day07. Hello MySQL..!](https://www.notion.so/Day07-Hello-MySQL-6b06be3db50844e39e551c2cd724dfc2)
 
-[Day15. SQL문 작성](https://www.notion.so/Day15-SQL-ac4307a0fcab49e49f88eec2b39cfcbc)
+[Day15. SQL문 작성](https://www.notion.so/Day15-SQL-8643da1fccfb4b03a0851471d7879fb8)
 
-[Day17. 제약조건, Key](https://www.notion.so/Day17-Key-9fc4dece5f7d49a7894c83f434a485e1)
+[Day17. 제약조건, Key](https://www.notion.so/Day17-Key-1ea2eb3fa8c14f5598475e8c4879b5b2)
 
 ---
 
 ## 용어 정리
 
-[1. 0624 정리](https://www.notion.so/0624-5668c368c4df4c66a45c2c53e091d06c)
+[1. 0624 정리](https://www.notion.so/0624-888538df4544470cbd283734bcd693dd)
 
-[2. 0701 정리](https://www.notion.so/0701-4d73dd80ef7c48698fdfe9cf5d57a012)
+[2. 0701 정리](https://www.notion.so/0701-72709c0e0d0d4052a8c9e939fe75d8e5)
 
-[3. 0708 정리](https://www.notion.so/0708-c3ba7dbef2ee4d9ba347e92374674ab5)
+[3. 0708 정리](https://www.notion.so/0708-0322f3e2a0a640fcb3b75edc74e1423d)
 
-[4. 0712 정리](https://www.notion.so/0712-b383f1e9a4d4484db08bca2e8181b90a)
+[4. 0712 정리](https://www.notion.so/0712-a161544671184d7d8321adef2fef99d4)
 
-[5. 0716 정리](https://www.notion.so/0716-8f96e5227dd44ebb9931e92525ceca7d)
+[5. 0716 정리](https://www.notion.so/0716-3a882edb353c47bcb4958edde539a21d)
 
-[6. 0723 정리](https://www.notion.so/0723-8188c758b49f481abc73048417a4e3ce)
+[6. 0723 정리](https://www.notion.so/0723-55163ee8811e4b46b4b830047be7ec17)
 
-[7. 0805 정리](https://www.notion.so/0805-0ec9fad568b84d778516b90f2d0ac289)
+[7. 0805 정리](https://www.notion.so/0805-96b3e6f4684840bba317b97d49bdb45e)
 
-[8. 0820 정리](https://www.notion.so/0820-f0a5a1d97b5a42a1898771c7ee3107e2)
+[8. 0820 정리](https://www.notion.so/0820-6f35371436c14cf5a77c6897d64d9c1d)
 
 ---
 
