@@ -46,7 +46,7 @@
 
 [Day15. SQL문 작성](https://www.notion.so/Day15-SQL-8643da1fccfb4b03a0851471d7879fb8)
 
-- Day16. 1차 시험
+Day16. 1차 시험
 
 [Day17. DB 연결2(create, update, delete)](https://www.notion.so/Day17-DB-2-create-update-delete-417968e5c5a743e4b45075fcf8cff73a)
 
@@ -82,19 +82,19 @@
 
 [Day32. jQuery/DOM](https://www.notion.so/Day32-jQuery-DOM-b3489aaa19174b08bc3e5c72828989ec)
 
-- Day33. 1차 프로젝트
+Day33. 1차 프로젝트
 
-- Day34. 3차 시험
+Day34. 3차 시험
 
 [Day35. UML, 상속, Servlet](https://www.notion.so/Day35-UML-Servlet-6ad5c2e1300e443fbd41661c71930129)
 
-- Day36. 1차 프로젝트
+Day36. 1차 프로젝트
 
 [Day37. Thread, Static, 예외처리](https://www.notion.so/Day37-Thread-Static-2b0a413a8dad4152bb3cf4c8ddb5c30d)
 
-- Day38. 1차 프로젝트 발표
+Day38. 1차 프로젝트 발표
 
-- Day39. 1차 포트폴리오 작성
+Day39. 1차 포트폴리오 작성
 
 [Day40. 자바 기본 복습](https://www.notion.so/Day40-c32e57fae0094c3f9811e8ca01c685d5)
 
@@ -103,6 +103,8 @@
 [Day42. 리눅스 명령어, JDK 설치](https://www.notion.so/Day42-JDK-0dae5e8b73294673be8b8718d3e56fa8)
 
 [Day43. 리눅스 명령어2](https://www.notion.so/Day43-2-7c74e557502a4066986e985c5ee8f649)
+
+[Day44. Spring 설치&setting](https://www.notion.so/Day44-Spring-setting-e717940c3a6b4c389773cc1dcb07e4b1)
 
 ---
 
