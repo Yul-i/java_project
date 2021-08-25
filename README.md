@@ -106,6 +106,8 @@ Day39. 1차 포트폴리오 작성
 
 [Day44. Spring 설치&setting](https://www.notion.so/Day44-Spring-setting-e717940c3a6b4c389773cc1dcb07e4b1)
 
+[Day45. static, clouds 시작](https://www.notion.so/Day45-static-clouds-a15337d4fdd1484d91a08b0fe4d69cc7)
+
 ---
 
 # MYSQL
