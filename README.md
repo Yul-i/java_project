@@ -108,6 +108,8 @@ Day39. 1차 포트폴리오 작성
 
 [Day45. static, clouds 시작](https://www.notion.so/Day45-static-clouds-a15337d4fdd1484d91a08b0fe4d69cc7)
 
+[Day46. 예외처리(Exception)](https://www.notion.so/Day46-Exception-176f9086e67a42e6af721ebdadd0a811)
+
 ---
 
 # MYSQL
@@ -137,6 +139,8 @@ Day39. 1차 포트폴리오 작성
 [7. 0805 정리](https://www.notion.so/0805-96b3e6f4684840bba317b97d49bdb45e)
 
 [8. 0820 정리](https://www.notion.so/0820-6f35371436c14cf5a77c6897d64d9c1d)
+
+[9. 0824 정리(static)](https://www.notion.so/0824-static-a2ae09c4b7a4462cafce778d2349b530)
 
 ---
 
