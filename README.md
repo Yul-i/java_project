@@ -66,7 +66,7 @@ Day16. 1차 시험
 
 [Day24. DTO/Getters&Setters/JSP-DB](https://www.notion.so/Day24-DTO-Getters-Setters-JSP-DB-63bd9a69fe334e398e7eb57e0b198a35)
 
-- Day25. 2차 시험
+Day25. 2차 시험
 
 [Day26.  UI-DTO-DAO-DB(create, update, delete)](https://www.notion.so/Day26-UI-DTO-DAO-DB-create-update-delete-2006177961bc48af9ecdd69f5ef7361a)
 
@@ -109,6 +109,8 @@ Day39. 1차 포트폴리오 작성
 [Day45. static, clouds 시작](https://www.notion.so/Day45-static-clouds-a15337d4fdd1484d91a08b0fe4d69cc7)
 
 [Day46. 예외처리(Exception)](https://www.notion.so/Day46-Exception-176f9086e67a42e6af721ebdadd0a811)
+
+Day47. 2차 프로젝트 회의
 
 ---
 
