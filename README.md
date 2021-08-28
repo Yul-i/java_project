@@ -110,7 +110,9 @@ Day39. 1차 포트폴리오 작성
 
 [Day46. 예외처리(Exception)](https://www.notion.so/Day46-Exception-176f9086e67a42e6af721ebdadd0a811)
 
-Day47. 2차 프로젝트 회의
+[Day47. AWS - SSH접속](https://www.notion.so/Day47-AWS-SSH-e8de9e491d4b4ea5bc0580c3b881619b)
+
+[Day48. 프로토타입, 싱글톤 패턴](https://www.notion.so/Day48-8404506b8d514e8bb3ab6694f3935948)
 
 ---
 
