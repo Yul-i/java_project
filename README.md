@@ -148,5 +148,7 @@ Day39. 1차 포트폴리오 작성
 
 [9. 0824 정리(static)](https://www.notion.so/0824-static-a2ae09c4b7a4462cafce778d2349b530)
 
+[10. 0830 정리(포장 클래스, 캐스팅)](https://www.notion.so/0830-c3eb395d66d14af5a8360287214a3b73)
+
 ---
 
