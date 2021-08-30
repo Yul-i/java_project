@@ -114,6 +114,8 @@ Day39. 1차 포트폴리오 작성
 
 [Day48. 프로토타입, 싱글톤 패턴](https://www.notion.so/Day48-8404506b8d514e8bb3ab6694f3935948)
 
+[Day49. wrapperClass, casting, generic](https://www.notion.so/Day49-wrapperClass-casting-generic-033b293fa3fb4c0685cb4f4f1897a073)
+
 ---
 
 # MYSQL
