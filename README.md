@@ -118,8 +118,6 @@ Day39. 1차 포트폴리오 작성
 
 [Day50. SSH Putty, SpringMVC, FrontController](https://www.notion.so/Day50-SSH-Putty-SpringMVC-FrontController-8d012284eb7f4748a90275db17d81771)
 
-[Day50. Oracle 설치](https://www.notion.so/Day50-Oracle-0a652cca3bb44eea835644e00387f69a)
-
 ---
 
 # MYSQL
@@ -129,6 +127,12 @@ Day39. 1차 포트폴리오 작성
 [Day15. SQL문 작성](https://www.notion.so/Day15-SQL-8643da1fccfb4b03a0851471d7879fb8)
 
 [Day17. 제약조건, Key](https://www.notion.so/Day17-Key-1ea2eb3fa8c14f5598475e8c4879b5b2)
+
+---
+
+# MYSQL
+
+[Day50. Oracle 설치](https://www.notion.so/Day50-Oracle-0a652cca3bb44eea835644e00387f69a)
 
 ---
 
