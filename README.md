@@ -120,6 +120,20 @@ Day39. 1차 포트폴리오 작성
 
 ---
 
+# Linux(ubuntu), AWS EC2
+
+[Day41. 리눅스(ubuntu)설치&Hashset](https://www.notion.so/Day41-ubuntu-Hashset-83a323d03e7248b2985c8e920651fdce)
+
+[Day42. 리눅스 명령어, JDK 설치](https://www.notion.so/Day42-JDK-0dae5e8b73294673be8b8718d3e56fa8)
+
+[Day43. 리눅스 명령어2](https://www.notion.so/Day43-2-7c74e557502a4066986e985c5ee8f649)
+
+[Day47. AWS - SSH접속](https://www.notion.so/Day47-AWS-SSH-e8de9e491d4b4ea5bc0580c3b881619b)
+
+[Day50. SSH Putty, SpringMVC, FrontController](https://www.notion.so/Day50-SSH-Putty-SpringMVC-FrontController-8d012284eb7f4748a90275db17d81771)
+
+---
+
 # MYSQL
 
 [Day07. Hello MySQL..!](https://www.notion.so/Day07-Hello-MySQL-6b06be3db50844e39e551c2cd724dfc2)
@@ -130,7 +144,7 @@ Day39. 1차 포트폴리오 작성
 
 ---
 
-# MYSQL
+# ORACLE
 
 [Day50. Oracle 설치](https://www.notion.so/Day50-Oracle-0a652cca3bb44eea835644e00387f69a)
 
