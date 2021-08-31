@@ -116,6 +116,10 @@ Day39. 1차 포트폴리오 작성
 
 [Day49. wrapperClass, casting, generic](https://www.notion.so/Day49-wrapperClass-casting-generic-033b293fa3fb4c0685cb4f4f1897a073)
 
+[Day50. SSH Putty, SpringMVC, FrontController](https://www.notion.so/Day50-SSH-Putty-SpringMVC-FrontController-8d012284eb7f4748a90275db17d81771)
+
+[Day50. Oracle 설치](https://www.notion.so/Day50-Oracle-0a652cca3bb44eea835644e00387f69a)
+
 ---
 
 # MYSQL
