@@ -152,6 +152,8 @@ Day39. 1차 포트폴리오 작성
 
 [Day50. Oracle 설치](https://www.notion.so/Day50-Oracle-0a652cca3bb44eea835644e00387f69a)
 
+[Day51. Oracle 데이터 타입](https://www.notion.so/Day51-Oracle-2937d12cf27c4dcb83c3eb12799c93b0)
+
 ---
 
 ## 용어 정리
