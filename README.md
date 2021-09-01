@@ -118,9 +118,11 @@ Day39. 1차 포트폴리오 작성
 
 [Day50. SSH Putty, SpringMVC, FrontController](https://www.notion.so/Day50-SSH-Putty-SpringMVC-FrontController-8d012284eb7f4748a90275db17d81771)
 
+[Day51. AWS RDB(MySQL), DBCP, Maven 설정](https://www.notion.so/Day51-AWS-RDB-MySQL-DBCP-Maven-23e591505f294611a6a185b908090508)
+
 ---
 
-# Linux(ubuntu), AWS EC2
+# Linux(ubuntu), AWS EC2, AWS RDB
 
 [Day41. 리눅스(ubuntu)설치&Hashset](https://www.notion.so/Day41-ubuntu-Hashset-83a323d03e7248b2985c8e920651fdce)
 
@@ -131,6 +133,8 @@ Day39. 1차 포트폴리오 작성
 [Day47. AWS - SSH접속](https://www.notion.so/Day47-AWS-SSH-e8de9e491d4b4ea5bc0580c3b881619b)
 
 [Day50. SSH Putty, SpringMVC, FrontController](https://www.notion.so/Day50-SSH-Putty-SpringMVC-FrontController-8d012284eb7f4748a90275db17d81771)
+
+[Day51. AWS RDB(MySQL), DBCP, Maven 설정](https://www.notion.so/Day51-AWS-RDB-MySQL-DBCP-Maven-23e591505f294611a6a185b908090508)
 
 ---
 
