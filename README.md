@@ -120,6 +120,8 @@ Day39. 1차 포트폴리오 작성
 
 [Day51. AWS RDB(MySQL), DBCP, Maven 설정](https://www.notion.so/Day51-AWS-RDB-MySQL-DBCP-Maven-23e591505f294611a6a185b908090508)
 
+[Day52. mybatis, DB연결(Oracle)](https://www.notion.so/Day52-mybatis-DB-Oracle-c5eaba6ea33943208691bdd704cb97e4)
+
 ---
 
 # Linux(ubuntu), AWS EC2, AWS RDB
@@ -177,6 +179,8 @@ Day39. 1차 포트폴리오 작성
 [9. 0824 정리(static)](https://www.notion.so/0824-static-a2ae09c4b7a4462cafce778d2349b530)
 
 [10. 0830 정리(포장 클래스, 캐스팅)](https://www.notion.so/0830-c3eb395d66d14af5a8360287214a3b73)
+
+[11. 0902 정리(spring)](https://www.notion.so/0902-spring-0f269ede85534efda770392bd3216890)
 
 ---
 
