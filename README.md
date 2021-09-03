@@ -122,6 +122,8 @@ Day39. 1차 포트폴리오 작성
 
 [Day52. mybatis, DB연결(Oracle)](https://www.notion.so/Day52-mybatis-DB-Oracle-c5eaba6ea33943208691bdd704cb97e4)
 
+[Day53. framework, mybatis2, spring mvc2](https://www.notion.so/Day53-framework-mybatis2-spring-mvc2-674bdd656efe4c639caaf7f6e2e057a9)
+
 ---
 
 # Linux(ubuntu), AWS EC2, AWS RDB
