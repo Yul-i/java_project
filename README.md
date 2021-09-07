@@ -124,7 +124,9 @@ Day39. 1차 포트폴리오 작성
 
 [Day53. framework, mybatis2, spring mvc2](https://www.notion.so/Day53-framework-mybatis2-spring-mvc2-674bdd656efe4c639caaf7f6e2e057a9)
 
-Day54.2차 프로젝트 작업
+Day54. 2차 프로젝트 작업
+
+[Day55. mybatis3(read, delete)](https://www.notion.so/Day55-mybatis3-read-delete-36c093d6bbe64a7ab41fa6978a55d196)
 
 ---
 
