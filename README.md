@@ -128,6 +128,10 @@ Day54. 2차 프로젝트 작업
 
 [Day55. mybatis3(read, delete)](https://www.notion.so/Day55-mybatis3-read-delete-36c093d6bbe64a7ab41fa6978a55d196)
 
+[Day56. JQuery, AJAX](https://www.notion.so/Day56-JQuery-AJAX-803503d0a8ec439586d90ab90e67b80e)
+
+[Day57. AJAX2](https://www.notion.so/Day57-AJAX2-dacdda3d79bc477697a6b8aa8999e571)
+
 ---
 
 # Linux(ubuntu), AWS EC2, AWS RDB
@@ -187,6 +191,8 @@ Day54. 2차 프로젝트 작업
 [10. 0830 정리(포장 클래스, 캐스팅)](https://www.notion.so/0830-c3eb395d66d14af5a8360287214a3b73)
 
 [11. 0902 정리(spring)](https://www.notion.so/0902-spring-0f269ede85534efda770392bd3216890)
+
+[12. 0909 정리(ajax)](https://www.notion.so/0909-ajax-dfaa79b9581d4c579d07d89551756e2c)
 
 ---
 
