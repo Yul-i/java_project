@@ -132,6 +132,10 @@ Day54. 2차 프로젝트 작업
 
 [Day57. AJAX2](https://www.notion.so/Day57-AJAX2-dacdda3d79bc477697a6b8aa8999e571)
 
+Day58.SQL
+
+Day59.SQL 2
+
 ---
 
 # Linux(ubuntu), AWS EC2, AWS RDB
