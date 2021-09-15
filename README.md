@@ -136,6 +136,8 @@ Day58.SQL
 
 Day59.SQL 2
 
+[Day60. spring 게시판, 덧글](https://www.notion.so/Day60-spring-291d89f8040f4d658a7f86cd4ba8c26d)
+
 ---
 
 # Linux(ubuntu), AWS EC2, AWS RDB
